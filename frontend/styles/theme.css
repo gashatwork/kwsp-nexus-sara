@@ -1,0 +1,51 @@
+@font-face {
+    font-family: "FilsonProRegular";
+    src: url("/fonts/FilsonProRegular.otf") format("opentype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --kwsp-9: #144eb6;
+    --kwsp-10: #144eb6;
+    --kwsp-11: #144eb6;
+    --kwsp-track: #144eb6;
+
+    [data-accent-color='indigo'] {
+        --accent-1: var(--indigo-1);
+        --accent-2: var(--indigo-2);
+        --accent-3: var(--indigo-3);
+        --accent-4: var(--indigo-4);
+        --accent-5: var(--indigo-5);
+        --accent-6: var(--indigo-6);
+        --accent-7: var(--indigo-7);
+        --accent-8: var(--indigo-8);
+        --accent-9: var(--kwsp-9);
+        --accent-10: var(--kwsp-10);
+        --accent-11: var(--kwsp-11);
+        --accent-12: var(--indigo-12);
+        --accent-a1: var(--indigo-a1);
+        --accent-a2: var(--indigo-a2);
+        --accent-a3: var(--indigo-a3);
+        --accent-a4: var(--indigo-a4);
+        --accent-a5: var(--indigo-a5);
+        --accent-a6: var(--indigo-a6);
+        --accent-a7: var(--indigo-a7);
+        --accent-a8: var(--indigo-a8);
+        --accent-a9: var(--indigo-a9);
+        --accent-a10: var(--indigo-a10);
+        --accent-a11: var(--indigo-a11);
+        --accent-a12: var(--indigo-a12);
+        --accent-contrast: var(--indigo-contrast);
+        --accent-surface: var(--indigo-surface);
+        --accent-indicator: var(--indigo-indicator);
+        --accent-track: var(--kwsp-track);
+    }
+}
+
+.radix-themes {
+    --default-font-family: "FilsonProRegular", sans-serif !important;
+    --line-height-1: auto !important;
+    --line-height-2: auto !important;
+    --line-height-3: auto !important;
+}

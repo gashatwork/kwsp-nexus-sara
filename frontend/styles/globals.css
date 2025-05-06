@@ -1,0 +1,80 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import "theme.css";
+
+/* Custom styles for the application */
+.logo-text {
+  font-weight: 700;
+  color: #2d368f;
+}
+
+.rt-Heading {
+  color: #2d368f;
+}
+
+.card-ai::before {
+  background: none !important;
+}
+
+.card-ai-new {
+  outline: #2d368f dashed 2px;
+  outline-offset: -2px;
+}
+
+.brand-gradient {
+  background: linear-gradient(135deg, #2d368f 0%, #eb2127 100%);
+}
+
+.brand-blue {
+  color: #2d368f;
+}
+
+.brand-gold {
+  color: #cda444;
+}
+
+.brand-border-gold {
+  border-color: #cda444;
+}
+
+.brand-border-blue {
+  border-color: #2d368f;
+}
+
+.brand-bg-gold {
+  background-color: #cda444;
+}
+
+.brand-bg-blue {
+  background-color: #2d368f;
+}
+
+.brand-bg-light-gray {
+  background-color: #f3f3f3;
+}
+
+.brand-bg-light-blue {
+  background-color: #cce1f5;
+}
+
+.code-input {
+  height: 48px;
+}
+
+.code-input input {
+  text-indent: 0;
+  font-size: 36px;
+}
+
+/* Toastify */
+
+.Toastify__toast-container {
+  display: flex;
+  justify-content: center;
+  width: 100% !important;
+}
+
+.Toastify__toast {
+  width: fit-content !important;
+}

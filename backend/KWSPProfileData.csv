@@ -1,0 +1,23 @@
+﻿user_id,Name,Age,Gender,Race,ResidentStatus,Nationality,Religion,SavingRange,AccountType,csik
+1,Tajul Islam,25,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+2,Abdullah,38,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+3,Badrudduja,42,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+4,Mazlan,29,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+5,Khairul,56,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM500 – RM2,000",Conventional,iSaraan
+6,Shahrudin,34,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM500 – RM2,000",Conventional,iSaraan
+7,Awaluddin,22,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM500 – RM2,000",Conventional,iSaraan
+8,Dilawar,41,Male,Bangalee,Resident,Malaysian,Islam,"Above RM20,000",Conventional,iSaraan
+9,Sikandar,27,Male,Others,Non-Resident,Bangladeshi,Islam,"RM5,000 – RM10,000",Conventional,iSaraan
+10,Tanvir,58,Male,Bangalee,Resident,Bangladeshi,Islam,"RM10,000 – RM20,000",Conventional,iSaraan
+11,Yamin,24,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+12,Ghulam Akbar,32,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM5,000 – RM10,000",Conventional,iSaraan
+13,Munir,47,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM10,000 – RM20,000",Conventional,iSaraan
+14,Khasru,36,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM5,000 – RM10,000",Conventional,iSaraan
+15,Usman,30,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+16,Kamran,55,Male,Bangalee,Non-Resident,Bangladeshi,Islam,"Above RM20,000",Conventional,iSaraan
+17,Dibyo,55,Male,Bangalee,Permanent Res.,Bangladeshi,Islam,"RM10,000 – RM20,000",Conventional,iSuri
+18,Niladri,45,Male,Bangalee,Resident,Malaysian,Islam,"RM500 – RM2,000",Conventional,iSaraan
+19,Azman,43,Male,Bangalee,Resident,Malaysian,Islam,"RM10,000 – RM20,000",Conventional,iSuri
+20,Faizal,52,Male,Bangalee,Resident,Malaysian,Islam,"Above RM20,000",Conventional,iSuri
+21,Hasanuddin,26,Male,Others,Non-Resident,Bangladeshi,Islam,RM500 – RM600,Conventional,iSaraan
+22,Mahbubur Rahman,38,Male,Others,Non-Resident,Nepali,Islam,RM600 – RM800,Conventional,iSaraan

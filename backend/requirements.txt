@@ -1,0 +1,17 @@
+uvicorn==0.30.1
+fastapi==0.115.8
+pandas==2.2.3
+Flask==2.3.3
+flask-cors==4.0.0
+python-dotenv==1.0.0
+azure-cognitiveservices-speech
+azure-search-documents==11.4.0
+openai
+azure-identity==1.13.0
+gunicorn==21.2.0
+SQLAlchemy==2.0.23
+psycopg2-binary==2.9.9
+requests==2.31.0
+azure-messaging-webpubsubservice
+azure-messaging-webpubsubclient
+pydantic-settings

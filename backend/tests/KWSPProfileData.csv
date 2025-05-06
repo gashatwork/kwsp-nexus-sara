@@ -1,0 +1,23 @@
+﻿user_id,Age,Gender,Race,ResidentStatus,Nationality,Religion,SavingRange,AccountType,CSIK(iSaraan/i-Suri)
+1,25,Male,Malay,Resident,Malaysian,Islam,"RM2,000 – RM5,000",Conventional,iSaraan
+2,38,Female,Chinese,Resident,Malaysian,Buddhism,"RM5,000 – RM10,000",Conventional,iSaraan
+3,42,Female,Malay,Permanent Res.,Indonesian,Islam,"RM2,000 – RM5,000",Shariah,iSuri
+4,29,Male,Indian,Resident,Malaysian,Hinduism,"RM5,000 – RM10,000",Conventional,iSaraan
+5,56,Female,Malay,Resident,Malaysian,Islam,"Above RM20,000",Shariah,iSuri
+6,34,Male,Chinese,Resident,Malaysian,Buddhism,"RM10,000 – RM20,000",Conventional,iSaraan
+7,22,Female,Indian,Resident,Malaysian,Hinduism,"RM500 – RM2,000",Conventional,iSuri
+8,41,Male,Malay,Resident,Malaysian,Islam,"Above RM20,000",Shariah,iSaraan
+9,27,Female,Chinese,Non-Resident,Singaporean,Buddhism,"RM5,000 – RM10,000",Conventional,iSaraan
+10,58,Male,Malay,Resident,Malaysian,Islam,"RM10,000 – RM20,000",Shariah,iSaraan
+11,24,Male,Indian,Non-Resident,Indian,Hinduism,"RM2,000 – RM5,000",Conventional,iSaraan
+12,32,Female,Malay,Resident,Malaysian,Islam,"RM5,000 – RM10,000",Shariah,iSuri
+13,47,Female,Others (Sabah),Resident,Malaysian,Christianity,"RM10,000 – RM20,000",Conventional,iSuri
+14,36,Male,Chinese,Resident,Malaysian,Taoism,"RM5,000 – RM10,000",Conventional,iSaraan
+15,30,Female,Malay,Permanent Res.,Indonesian,Islam,"RM2,000 – RM5,000",Shariah,iSuri
+16,55,Male,Malay,Resident,Malaysian,Islam,"Above RM20,000",Shariah,iSaraan
+17,39,Female,Chinese,Permanent Res.,Chinese,Buddhism,"RM10,000 – RM20,000",Conventional,iSuri
+18,26,Male,Indian,Resident,Malaysian,Hinduism,"RM500 – RM2,000",Conventional,iSaraan
+19,43,Female,Others (Sarawak),Resident,Malaysian,Christianity,"RM10,000 – RM20,000",Shariah,iSuri
+20,52,Female,Malay,Resident,Malaysian,Islam,"Above RM20,000",Shariah,iSuri
+21,26,Male,Others,Resident,Bangladeshi,Islam,RM500 – RM600,Conventional,iSaraan
+22,38,Male,Others,Resident,Nepali,Hinduism,RM600 – RM800,Conventional,iSaraan
