@@ -58,3 +58,11 @@ class ProductRecommendationRequest(BaseModel):
 class ProductRecommendationResponse(BaseModel):
     output: str
     metadata: Optional[Dict[str, Any]] = None
+
+class FinanceAdvisoryRequest(BaseModel):
+    input: str
+    options: Optional[Dict[str, Any]] = None
+
+class FinanceAdvisoryResponse(BaseModel):
+    input: str
+    options: Optional[Dict[str, Any]] = None
